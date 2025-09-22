@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.dark-mode {
+  background-color: #222;
+  color: #fff;
+}
+
+.hidden {
+  display: none;
+}
+
+button {
+  margin: 5px;
+}
